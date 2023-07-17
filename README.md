@@ -1,3 +1,8 @@
+# Consideraciones previas
+El proyecto no esta completo, auth aun no esta implementado solo se pueden ver los usuarios registrados desde '/users'
+Para el correcto funcionamiento de este, se deben bajar los cambios realizados en el proyecto anterior.
+Se debe correr el proyecto anterior en el puerto 8080, o se debe modificar la ruta de consulta en este repositorio.
+
 # FrontEndAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
